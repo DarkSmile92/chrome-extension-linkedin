@@ -1,0 +1,2 @@
+# Privacy policy for this extension
+This Google Chrome extension does not collect or process any user data in any way. It solely runs a JavaScript function on the pages of LinkedIn SalesNavigator to mark notifications as read without collecting any information.

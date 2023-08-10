@@ -1,7 +1,7 @@
 {
   "name": "LinkedIn SalesNavigator mark as read",
   "description": "Mark all notifications in LinkedIn SalesNavigator as read",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "icons": {
     "16": "icon_16.png",

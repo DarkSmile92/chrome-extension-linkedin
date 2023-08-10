@@ -6,3 +6,8 @@ Stop searching!
 # Development references
 Docs: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/
 Icon Generator: https://www.chromeextensionimages.com/
+
+# Create publishing zipfile
+```
+zip -r chrome-extension-linkedin.zip . -x .git/\*
+```
